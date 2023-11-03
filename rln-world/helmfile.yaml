@@ -1,0 +1,15 @@
+---
+repositories:
+  - name: rln-world
+    url: git+https://github.com/r-narayanan4/multi-helmchart@rln-world?ref=master&sparse=0
+
+releases:
+  - name: world1
+    chart: rln-world/rln1
+    installed: true
+
+
+  - name: world2
+    chart: rln-world/rln2
+    installed: true
+ 

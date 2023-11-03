@@ -1,7 +1,7 @@
 ---
 repositories:
   - name: rln-world
-    url: git+https://github.com/r-narayanan4/multi-helmchart@rln-world?ref=master&sparse=0
+    url: git+https://github.com/r-narayanan4/multi-helmchart@rln-world?ref=main&sparse=0
 
 releases:
   - name: world1
